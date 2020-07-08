@@ -1,0 +1,50 @@
+{
+	"name": "q",
+	"displayName": "kdb-q-dev",
+	"description": "The language support for KDB+/Q",
+	"version": "0.0.1",
+	"publisher": "chenduo",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"keywords": [
+		"KDB+",
+		"q",
+		"Database"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/cheduo/q-language-dev/blob/master/README.md",
+	"bugs": {
+		"url": "https://github.com/cheduo/q-language-dev/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cheduo/q-language-dev"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "q",
+				"aliases": [
+					"q",
+					"q"
+				],
+				"extensions": [
+					".q"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "q",
+				"scopeName": "source.q",
+				"path": "./syntaxes/q.tmLanguage.json"
+			}
+		]
+	},
+	"__metadata": {}
+}
