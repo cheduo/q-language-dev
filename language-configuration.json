@@ -1,4 +1,7 @@
 {
+    "comments": {
+        "lineComment": "//"
+    },
     // symbols used as brackets
     "brackets": [
         [
@@ -31,10 +34,6 @@
         [
             "\"",
             "\""
-        ],
-        [
-            "'",
-            "'"
         ]
     ],
     // symbols that that can be used to surround a selection

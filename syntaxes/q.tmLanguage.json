@@ -70,7 +70,7 @@
         "name": "variable.language.q"
       },
       {
-        "match": "\\b(first|enlist|value|type|get|set|count|string|key|max|min|sum|prd|last|flip|distinct|raze|neg|til|upper|lower|abs|acos|aj|aj0|not|null|any|asc|asin|attr|avg|avgs|ceiling|cols|cos|csv|all|atan|deltas|desc|differ|dsave|dev|eval|exit|exp|fills|fkeys|floor|getenv|group|gtime|hclose|hcount|hdel|hopen|hsym|iasc|idesc|inv|keys|load|log|lsq|ltime|ltrim|maxs|md5|med|meta|mins|next|parse|plist|prds|prev|rand|rank|ratios|read0|read1|reciprocal|reverse|rload|rotate|rsave|rtrim|save|sdev|show|signum|sin|sqrt|ssr|sums|svar|system|tables|tan|trim|txf|ungroup|var|view|views|wj|wj1|ww)\\b",
+        "match": "\\b(first|enlist|value|values|type|get|set|count|string|key|max|min|sum|prd|last|flip|distinct|raze|neg|til|upper|lower|abs|acos|aj|aj0|not|null|any|asc|asin|attr|avg|avgs|ceiling|cols|cos|csv|all|atan|deltas|desc|differ|dsave|dev|eval|exit|exp|fills|fkeys|floor|getenv|group|gtime|hclose|hcount|hdel|hopen|hsym|iasc|idesc|inv|keys|load|log|lsq|ltime|ltrim|maxs|md5|med|meta|mins|next|parse|plist|prds|prev|rand|rank|ratios|read0|read1|reciprocal|reverse|rload|rotate|rsave|rtrim|save|sdev|show|signum|sin|sqrt|ssr|sums|svar|system|tables|tan|trim|txf|ungroup|var|view|views|wj|wj1|ww)\\b",
         "name": "support.function.q"
       },
       {
